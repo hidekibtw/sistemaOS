@@ -1,2 +1,2 @@
 # sistemaOS
-TeramachiTech - Montagem de computadores e notebook.
+TeramachiTech - Montagem de computadores Gamers 
