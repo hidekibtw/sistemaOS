@@ -2,4 +2,4 @@
 # SistemaOS (Java - MySQL)
 TeramachiTech - Montagem de Hardwares Gamers
 ## Autor
-Hideki Ferreira Santos Teramachi
+Hideki Ferreira S Teramachi
